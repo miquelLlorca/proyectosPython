@@ -1,0 +1,4 @@
+- pong
+- pacman
+- juego de la vida
+- juego de monty hall

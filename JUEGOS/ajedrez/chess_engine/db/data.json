@@ -1,0 +1,23 @@
+[
+    {
+        "id":"d57754211756c406eee149343db47ad2d5bd71dd063caf4b3ce216b3c8211c90",
+        "turn":0,
+        "pos_value":-1,
+        "best_move":"",
+        "board_state":"tn cn an qn kn an cn tn pn pn pn . pn pn pn pn . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . pb pb pb pb pb pb pb pb tb cb ab qb kb ab cb tb "
+    },
+    {
+        "id":"d57754211756c406eee149343db47ad2d5bd71dd063caf4b3ce216b3c8211c90",
+        "turn":0,
+        "pos_value":-1,
+        "best_move":"",
+        "board_state":"tn cn an qn kn an cn tn pn pn pn . pn pn pn pn . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . pb pb pb pb pb pb pb pb tb cb ab qb kb ab cb tb "
+    },
+    {
+        "id":"d57754211756c406eee149343db47ad2d5bd71dd063caf4b3ce216b3c8211c90",
+        "turn":0,
+        "pos_value":-1,
+        "best_move":"",
+        "board_state":"tn cn an qn kn an cn tn pn pn pn . pn pn pn pn . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . pb pb pb pb pb pb pb pb tb cb ab qb kb ab cb tb "
+    }
+]

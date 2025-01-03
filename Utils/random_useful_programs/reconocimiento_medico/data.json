@@ -1,0 +1,175 @@
+[
+    {
+        "date": "07-05-2024",
+        "height": 177,
+        "weight": 80.8,
+        "imc": 25.79,
+        "heart": {
+            "tension_sist": 130,
+            "tension_diast": 70,
+            "heart_rate": 71
+        },
+        "blood": {
+            {
+                "id": "LEUCOCITOS",
+                "value": 7.4,
+                "type": "x10^3/uL"
+            },
+            {
+                "id": "HEMATIES",
+                "value": 5.48,
+                "type": "x10^6/uL"
+            },
+            {
+                "id": "HEMOGLOBINA",
+                "value": 15.7,
+                "type": "g/dl"
+            },
+            {
+                "id": "HEMATOCRITO",
+                "value": 46,
+                "type": "%"
+            },
+            {
+                "id": "VCM",
+                "value": 84,
+                "type": "fl"
+            },
+            {
+                "id": "HCM",
+                "value": 28.6,
+                "type": "pg"
+            },
+            {
+                "id": "CHCM",
+                "value": 34.0,
+                "type": "g/dL"
+            },
+            {
+                "id": "RDW",
+                "value": 13,
+                "type": "%"
+            },
+            {
+                "id": "PLAQUETAS",
+                "value": 208,
+                "type": "x10^3/uL"
+            },
+            {
+                "id": "VPM",
+                "value": 12.3,
+                "type": "fL"
+            },
+            {
+                "id": "LINFOCITOS",
+                "value": 31.9,
+                "type": "%"
+            },
+            {
+                "id": "LINFOCITOS (#)",
+                "value": 2.4,
+                "type": "x10^3/uL"
+            },
+            {
+                "id": "MONOCITOS",
+                "value": 8.3,
+                "type": "%"
+            },
+            {
+                "id": "MONOCITOS (#)",
+                "value": 0.6,
+                "type": "x10^3/uL"
+            },
+            {
+                "id": "NEUTROFILOS",
+                "value": 52.6,
+                "type": "%"
+            },
+            {
+                "id": "NEUTROFILOS (#)",
+                "value": 3.9,
+                "type": "x10^3/uL"
+            },
+            {
+                "id": "EOSINOFILOS",
+                "value": 6.8,
+                "type": "%"
+            },
+            {
+                "id": "EOSINOFILOS (#)",
+                "value": 0.5,
+                "type": "x10^3/uL"
+            },
+            {
+                "id": "BASOFILOS",
+                "value": 0.4,
+                "type": "%"
+            },
+            {
+                "id": "BASOFILOS (#)",
+                "value": 0.0,
+                "type": "x10^3/uL"
+            },
+            {
+                "id": "LDL COLESTEROL",
+                "value": 87,
+                "type": "mg/dl"
+            },
+            {
+                "id": "ACIDO ÚRICO",
+                "value": 6.65,
+                "type": "mg/dl"
+            },
+            {
+                "id": "GOT",
+                "value": 15,
+                "type": "U/I"
+            },
+            {
+                "id": "GPT",
+                "value": 14,
+                "type": "U/I"
+            },
+            {
+                "id": "GAMMA GT",
+                "value": 14,
+                "type": "U/I"
+            },
+            {
+                "id": "COLESTEROL NO HDL (COLESTEROL TOTAL HDL)",
+                "value": 108,
+                "type": "mg/dL"
+            },
+            {
+                "id": "INDICE ATEROGENIDAD (COLESTEROL TOTAL/HDL)",
+                "value": 3.6,
+                "type": ""
+            },
+            {
+                "id": "GLUCOSA EN SANGRE",
+                "value": 77,
+                "type": "mg/dl"
+            },
+            {
+                "id": "CREATININA",
+                "value": 0.98,
+                "type": "mg/dl"
+            },
+            {
+                "id": "COLESTEROL",
+                "value": 150,
+                "type": "mg/dl"
+            },
+            {
+                "id": "TRIGLICERIDOS",
+                "value": 106,
+                "type": "mg/dl"
+            },
+            {
+                "id": "HDL COLESTEROL",
+                "value": 42,
+                "type": "mg/dl"
+            }
+        }
+    }
+]

@@ -1,0 +1,18 @@
+git init
+git remote add origin https://github.com/MLB51/proyectosPython
+
+git config --global user.email "..."
+git config --global user.name "..."
+
+
+-------------------------------------------------------------------
+
+git pull
+
+git add ...
+git commit -m "..."
+git push -u origin master
+
+-------------------------------------------------------------------
+
+EL TOKEN CADUCA EL 1 de enero de 2k22 :)

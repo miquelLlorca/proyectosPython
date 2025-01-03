@@ -1,0 +1,19 @@
+s d 2
+m d 4
+s d 8
+m d 4
+s d 1
+m d 4
+s c 8
+rte
+s e 7
+m e 5
+s d 4
+m e 5
+s f 8
+m d 6
+s e 5
+m d 6
+s c 7
+m d 6
+q

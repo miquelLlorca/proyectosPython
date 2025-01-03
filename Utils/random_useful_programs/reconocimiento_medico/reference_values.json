@@ -1,0 +1,194 @@
+[
+    {
+        "id": "LEUCOCITOS",
+        "type": "x10^3/uL",
+        "min": 4.0,
+        "max": 11.0
+    },
+    {
+        "id": "HEMATIES",
+        "type": "x10^6/uL",
+        "min": 4.7,
+        "max": 6.0
+    },
+    {
+        "id": "HEMOGLOBINA",
+        "type": "g/dl",
+        "min": 13.5,
+        "max": 18.0
+    },
+    {
+        "id": "HEMATOCRITO",
+        "type": "%",
+        "min": 42.0,
+        "max": 52.0
+    },
+    {
+        "id": "VCM",
+        "type": "fl",
+        "min": 80.0,
+        "max": 100.0
+    },
+    {
+        "id": "HCM",
+        "type": "pg",
+        "min": 27.0,
+        "max": 31.0
+    },
+    {
+        "id": "CHCM",
+        "type": "g/dL",
+        "min": 32.0,
+        "max": 36.0
+    },
+    {
+        "id": "RDW",
+        "type": "%",
+        "min": 11.5,
+        "max": 14.0
+    },
+    {
+        "id": "PLAQUETAS",
+        "type": "x10^3/uL",
+        "min": 150.0,
+        "max": 350.0
+    },
+    {
+        "id": "VPM",
+        "type": "fL",
+        "min": 7.4,
+        "max": 10.4
+    },
+    {
+        "id": "LINFOCITOS",
+        "type": "%",
+        "min": 20.0,
+        "max": 45.0
+    },
+    {
+        "id": "LINFOCITOS (#)",
+        "type": "x10^3/uL",
+        "min": 1.5,
+        "max": 3.5
+    },
+    {
+        "id": "MONOCITOS",
+        "type": "%",
+        "min": 2.0,
+        "max": 10.0
+    },
+    {
+        "id": "MONOCITOS (#)",
+        "type": "x10^3/uL",
+        "min": 0.2,
+        "max": 1.0
+    },
+    {
+        "id": "NEUTROFILOS",
+        "type": "%",
+        "min": 40.0,
+        "max": 75.0
+    },
+    {
+        "id": "NEUTROFILOS (#)",
+        "type": "x10^3/uL",
+        "min": 1.5,
+        "max": 6.5
+    },
+    {
+        "id": "EOSINOFILOS",
+        "type": "%",
+        "min": 1.0,
+        "max": 6.0
+    },
+    {
+        "id": "EOSINOFILOS (#)",
+        "type": "x10^3/uL",
+        "min": 0.04,
+        "max": 0.7
+    },
+    {
+        "id": "BASOFILOS",
+        "type": "%",
+        "min": 0.0,
+        "max": 2.0
+    },
+    {
+        "id": "BASOFILOS (#)",
+        "type": "x10^3/uL",
+        "min": 0.0,
+        "max": 0.1
+    },
+    {
+        "id": "LDL COLESTEROL",
+        "type": "mg/dl",
+        "min": 0.0,
+        "max": 130.0
+    },
+    {
+        "id": "ACIDO ÚRICO",
+        "type": "mg/dl",
+        "min": 2.5,
+        "max": 7.2
+    },
+    {
+        "id": "GOT",
+        "type": "U/I",
+        "min": 5.0,
+        "max": 50.0
+    },
+    {
+        "id": "GPT",
+        "type": "U/I",
+        "min": 5.0,
+        "max": 50.0
+    },
+    {
+        "id": "GAMMA GT",
+        "type": "U/I",
+        "min": 7.0,
+        "max": 55.0
+    },
+    {
+        "id": "COLESTEROL NO HDL (COLESTEROL TOTAL HDL)",
+        "type": "mg/dL",
+        "min": 0.0,
+        "max": 130.0
+    },
+    {
+        "id": "INDICE ATEROGENIDAD (COLESTEROL TOTAL/HDL)",
+        "type": "",
+        "min": 0.0,
+        "max": 5.0
+    },
+    {
+        "id": "GLUCOSA EN SANGRE",
+        "type": "mg/dl",
+        "min": 60.0,
+        "max": 110.0
+    },
+    {
+        "id": "CREATININA",
+        "type": "mg/dl",
+        "min": 0.6,
+        "max": 1.4
+    },
+    {
+        "id": "COLESTEROL",
+        "type": "mg/dl",
+        "min": 100.0,
+        "max": 200.0
+    },
+    {
+        "id": "TRIGLICERIDOS",
+        "type": "mg/dl",
+        "min": 30.0,
+        "max": 150.0
+    },
+    {
+        "id": "HDL COLESTEROL",
+        "type": "mg/dl",
+        "min": 40.0,
+        "max": 200.0
+    }
+]
